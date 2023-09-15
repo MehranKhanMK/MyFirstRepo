@@ -1,0 +1,4 @@
+this is some text in my text file
+
+git add *
+git commit -m "I have create a text file"
